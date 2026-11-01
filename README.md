@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Sahil Kumar 👋
 
-<!--
-**sahilpabyal/sahilpabyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### IT Infrastructure | Networking | System Administration | Process Automation
 
-Here are some ideas to get you started:
+I have a technical background in **Computer Science and Telecommunications**, with a strong interest in IT infrastructure, networking and system administration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My experience combines technical education, hands-on IT activities and practical knowledge of business processes and enterprise systems.
+
+### Technical Interests
+
+- IT Infrastructure and System Administration
+- Computer Networking and TCP/IP
+- Windows Server and Active Directory
+- Linux and Virtualization
+- Hardware Troubleshooting
+- Process Automation and Software Projects
+
+### Projects
+
+- **Stockly** – Warehouse stock analysis and storage optimization.
+- **EasyHU** – SSCC/handling unit management and scanning.
+- **TwinScan** – Validation and monitoring of logistics barcode scans.
+- **MornicoHub** – Personal data processing and automation.
+
+### Technologies & Tools
+
+SAP S/4HANA · SAP Fiori · Microsoft Excel · VBA · Windows · Linux · VirtualBox · VMware · Networking
+
+### About Me
+
+I enjoy understanding how systems work, identifying problems and designing practical solutions.
+
+I develop personal projects by combining problem analysis, application design, testing and AI-assisted development.
+
+Currently focused on strengthening my skills in **IT Infrastructure, Networking and System Administration**.
