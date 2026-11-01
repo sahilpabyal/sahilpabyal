@@ -1,3 +1,4 @@
+
 # Hi, I'm Sahil Kumar 👋
 
 ### IT Infrastructure | Networking | System Administration | Process Automation
@@ -6,14 +7,21 @@ I have a technical background in **Computer Science and Telecommunications**, wi
 
 My experience combines technical education, hands-on IT activities and practical knowledge of business processes and enterprise systems.
 
-### Technical Interests
+### Technical Background
 
-- IT Infrastructure and System Administration
 - Computer Networking and TCP/IP
-- Windows Server and Active Directory
-- Linux and Virtualization
+- Windows and Linux Fundamentals
 - Hardware Troubleshooting
-- Process Automation and Software Projects
+- SAP S/4HANA and SAP Fiori
+- Microsoft Excel and VBA
+
+### Areas of Development
+
+- Windows Server and Active Directory
+- IT Infrastructure and System Administration
+- Network Administration
+- Virtualization
+- Cybersecurity Fundamentals
 
 ### Projects
 
