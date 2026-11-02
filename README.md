@@ -1,43 +1,50 @@
 
-# Hi, I'm Sahil Kumar 👋
+# Sahil Kumar | IT & Software Portfolio
 
-### IT Infrastructure | Networking | System Administration | Process Automation
+Welcome to my personal portfolio.
 
-I have a technical background in **Computer Science and Telecommunications**, with a strong interest in IT infrastructure, networking and system administration.
+I have a technical background in **Computer Science and Telecommunications**, with an interest in IT infrastructure, networking, system administration and software development.
 
-My experience combines technical education, hands-on IT activities and practical knowledge of business processes and enterprise systems.
+This portfolio showcases personal projects developed to solve practical problems through technology, process analysis and automation.
 
-### Technical Background
+---
 
-- Computer Networking and TCP/IP
-- Windows and Linux Fundamentals
-- Hardware Troubleshooting
-- SAP S/4HANA and SAP Fiori
-- Microsoft Excel and VBA
+## Featured Projects
 
-### Areas of Development
+### [Stockly – Warehouse Stock Analysis & Storage Optimization](projects/stockly.md)
+An application designed to analyze SAP stock data and identify opportunities to optimize warehouse storage locations.
 
+### [EasyHU – Handling Unit & SSCC Management](projects/easyhu.md)
+A solution focused on SSCC scanning, Handling Unit identification, data validation and operational monitoring.
+
+### [TwinScan – Barcode Validation & Monitoring](projects/twinscan.md)
+A project designed to validate barcode scanning activities and identify potentially inconsistent data.
+
+### [MornicoHub – Personal Data Management & Automation](projects/mornicohub.md)
+A personal application for processing working time records, estimating payroll information and tracking vehicle consumption.
+
+---
+
+## Technical Interests
+
+- IT Infrastructure
+- System Administration
+- Computer Networking
 - Windows Server and Active Directory
-- IT Infrastructure and System Administration
-- Network Administration
+- Linux
 - Virtualization
-- Cybersecurity Fundamentals
+- Process Automation
 
-### Projects
+## Development Approach
 
-- **Stockly** – Warehouse stock analysis and storage optimization.
-- **EasyHU** – SSCC/handling unit management and scanning.
-- **TwinScan** – Validation and monitoring of logistics barcode scans.
-- **MornicoHub** – Personal data processing and automation.
+I focus on understanding real-world problems, defining requirements, designing practical solutions and testing their results.
 
-### Technologies & Tools
+My personal projects combine independent problem-solving with AI-assisted development.
 
-SAP S/4HANA · SAP Fiori · Microsoft Excel · VBA · Windows · Linux · VirtualBox · VMware · Networking
+---
 
-### About Me
+## Contact
 
-I enjoy understanding how systems work, identifying problems and designing practical solutions.
-
-I develop personal projects by combining problem analysis, application design, testing and AI-assisted development.
-
-Currently focused on strengthening my skills in **IT Infrastructure, Networking and System Administration**.
+- [LinkedIn](https://www.linkedin.com/)
+- [GitHub](https://github.com/sahilpabyal)
+- [CodeActa](https://codeacta.it)
