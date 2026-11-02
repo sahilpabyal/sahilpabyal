@@ -1,50 +1,71 @@
 
-# Sahil Kumar | IT & Software Portfolio
+# Hi, I'm Sahil Kumar 👋
 
-Welcome to my personal portfolio.
+### Junior IT Support | IT Infrastructure | Networking | System Administration
 
-I have a technical background in **Computer Science and Telecommunications**, with an interest in IT infrastructure, networking, system administration and software development.
+I have a technical background in **Computer Science and Telecommunications**, with a strong interest in IT infrastructure, networking and system administration.
 
-This portfolio showcases personal projects developed to solve practical problems through technology, process analysis and automation.
+My background combines technical education, hands-on IT experience and practical knowledge of business processes and enterprise systems.
+
+I enjoy understanding how systems work, troubleshooting technical problems and developing practical solutions through technology and automation.
 
 ---
+
+## Technical Background
+
+- Computer Networking and TCP/IP
+- Windows and Linux Fundamentals
+- Hardware Troubleshooting
+- SAP S/4HANA and SAP Fiori
+- Microsoft Excel and VBA
+- IT Support and Problem Solving
+
+## Areas of Development
+
+- Windows Server and Active Directory
+- IT Infrastructure and System Administration
+- Network Administration
+- Virtualization
+- Cybersecurity Fundamentals
 
 ## Featured Projects
 
-### [Stockly – Warehouse Stock Analysis & Storage Optimization](projects/stockly.md)
-An application designed to analyze SAP stock data and identify opportunities to optimize warehouse storage locations.
+I develop personal projects focused on solving practical problems through software, data processing and process automation.
 
-### [EasyHU – Handling Unit & SSCC Management](projects/easyhu.md)
-A solution focused on SSCC scanning, Handling Unit identification, data validation and operational monitoring.
+Explore my [**Project Portfolio**](https://github.com/sahilpabyal/portfolio) to discover:
 
-### [TwinScan – Barcode Validation & Monitoring](projects/twinscan.md)
-A project designed to validate barcode scanning activities and identify potentially inconsistent data.
+- **Stockly** – Warehouse stock analysis and storage optimization.
+- **EasyHU** – Handling Unit and SSCC management.
+- **TwinScan** – Barcode validation and operational monitoring.
+- **MornicoHub** – Personal data management and automation.
 
-### [MornicoHub – Personal Data Management & Automation](projects/mornicohub.md)
-A personal application for processing working time records, estimating payroll information and tracking vehicle consumption.
+## Technologies & Tools
 
----
+SAP S/4HANA · SAP Fiori · Microsoft Excel · VBA · Windows · Linux · VirtualBox · VMware · Networking
 
-## Technical Interests
+## My Approach
+
+I believe technology should solve real problems.
+
+My development process starts with understanding a problem, defining requirements, designing a solution and testing its behavior.
+
+I also use AI-assisted development as a tool to accelerate implementation, while focusing on requirements, logic, testing and practical results.
+
+## Current Focus
+
+Strengthening my knowledge and practical skills in:
 
 - IT Infrastructure
+- Networking
 - System Administration
-- Computer Networking
 - Windows Server and Active Directory
-- Linux
-- Virtualization
-- Process Automation
-
-## Development Approach
-
-I focus on understanding real-world problems, defining requirements, designing practical solutions and testing their results.
-
-My personal projects combine independent problem-solving with AI-assisted development.
+- Linux and Virtualization
 
 ---
 
-## Contact
+### Connect with me
 
 - [LinkedIn](https://www.linkedin.com/)
 - [GitHub](https://github.com/sahilpabyal)
 - [CodeActa](https://codeacta.it)
+- [Explore my Portfolio](https://github.com/sahilpabyal/portfolio)
